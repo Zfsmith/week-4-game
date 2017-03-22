@@ -1,0 +1,57 @@
+img{
+	width: 300px;
+	height: 300px;
+}
+#fighters{
+	min-height: 300px;
+
+	
+}
+.hp{
+	min-height: 70px;
+	margin-top: 10px;
+
+}
+.buttons{
+	
+	margin-top: 30px;
+	background:rgba(0,0,0,0.7);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn-lrg{
+	width: 200px;
+	height: 50px;
+	border-radius: 0 ;
+
+}
+body{
+	background: url("../images/blitz.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+}
+.fighterBtn{
+	border: solid black 10px;
+}
+.hp{
+	background:rgba(0,0,0,0.7);
+}
+.maint{
+	background:rgba(0,0,0,0.7);
+	padding:10px;
+	font-size: 350%;
+}
+.fighterLabel{
+	padding: 1px;
+	margin-bottom: 5px;
+	background:rgba(0,0,0,0.8);
+
+}
+.benchLabel{
+	background:rgba(0,0,0,0.7);
+	margin-bottom: 20px;
+	margin-top: 10px;
+
+}
